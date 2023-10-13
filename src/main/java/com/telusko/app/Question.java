@@ -60,6 +60,7 @@ public class Question {
     }
 
     public void setOption3(String option3) {
+        System.out.println("");
         this.option3 = option3;
     }
 
